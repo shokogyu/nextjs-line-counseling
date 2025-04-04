@@ -3,7 +3,7 @@ import Header from "@/components/header";
 import Hero from "@/components/hero";
 import LineCta from "@/components/line-cta";
 import Pricing from "@/components/pricing";
-import CounselingSection from "../../counseling-section";
+import CounselingSection from "../components/counseling-section";
 
 export default function Home() {
   return (
